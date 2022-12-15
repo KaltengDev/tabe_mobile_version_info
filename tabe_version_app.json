@@ -1,6 +1,6 @@
 {
 "android": {
-"version": "1.0.4",
+"version": "1.0.6",
 "toastMsg": "Tersedia versi terbaru TABE",
 "dialogMsg": "Tersedia versi terbaru TABE, Silahkan lakukan pembaruan aplikasi",
 "forceUpdate": false,
