@@ -1,9 +1,9 @@
 {
 "android": {
-"version": "1.0.11",
+"version": "1.0.14",
 "toastMsg": "Tersedia versi terbaru TABE",
 "dialogMsg": "Tersedia versi terbaru TABE, Silahkan lakukan pembaruan aplikasi",
-"forceUpdate": false,
+"forceUpdate": true,
 "appUrl": "https://play.google.com/store/apps/details?id=id.go.kalteng.tabe.android"
 },
 "ios": {
